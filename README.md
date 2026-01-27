@@ -1,10 +1,20 @@
-# Data Analytics Portfolio  
-This repository contains practical data analytics projects using SQL, Python, and Looker Studio.  
-## ⭐ Flagship Project End-to-end product analytics case: 
-- business question
-- data analysis
-- insights & recommendations
-## Other Projects 
-- SQL analytics tasks
-- Python data analysis notebooks
-- Dashboards
+# SQL Analytics Cases
+
+This directory contains practical SQL analytics cases
+implemented using Google BigQuery.
+
+Each subfolder represents a separate analytical case
+focused on real-world data scenarios.
+
+## Covered Topics
+- Data filtering and validation
+- Aggregation and grouping
+- Window and conditional logic
+- User segmentation and metrics calculation
+
+## Cases
+- [megogo_content_analysis](https://github.com/Novoselets28/data-analytics-portfolio/tree/megogo_content_analysis)  
+  
+## Tools
+- SQL
+- Google BigQuery
