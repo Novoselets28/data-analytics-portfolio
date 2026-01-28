@@ -4,16 +4,12 @@
 SQL analysis of video content and user viewing behavior based on the Megogo platform dataset.  
 The project demonstrates practical usage of SQL for data analysis, including filtering, aggregation, CTEs, subqueries, JSON parsing, and view creation.
 
----
-
 ## Tools
 - Google BigQuery
 - SQL (Standard SQL)
 - Common Table Expressions (CTEs)
 - Subqueries
 - JSON parsing functions (JSON_VALUE, JSON_QUERY_ARRAY)
-
----
 
 ## Key Tasks
 - Analyze monthly user engagement with content using likes data.
@@ -27,16 +23,12 @@ The project demonstrates practical usage of SQL for data analysis, including fil
   - number of active usage days.
 - Create reusable SQL Views for downstream analytics.
 
----
-
 ## Key Analyses
 - Monthly content engagement trends by category and daypart.
 - User activity distribution across different viewing volumes.
 - Behavioral user segmentation based on consumption patterns.
 - Identification of high-engagement and loyal user groups.
 - Preparation of analytics-ready datasets from raw and semi-structured data.
-
----
 
 ## Business Use Case
 - Support content strategy and catalog optimization decisions.
