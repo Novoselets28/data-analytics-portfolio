@@ -13,7 +13,8 @@ focused on real-world data scenarios.
 - User segmentation and metrics calculation
 
 ## Cases
-- [megogo_content_analysis](https://github.com/Novoselets28/data-analytics-portfolio/tree/megogo_content_analysis)  
+- [megogo_content_analysis](https://github.com/Novoselets28/data-analytics-portfolio/tree/megogo_content_analysis)
+- [megogo_sql_workshop](https://github.com/Novoselets28/data-analytics-portfolio/tree/megogo_sql_workshop)
   
 ## Tools
 - SQL
